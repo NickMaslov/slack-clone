@@ -32,7 +32,6 @@ export default class UserPanel extends Component {
   };
 
   render() {
-    console.log(this.state);
     const { photoURL, displayName } = this.state.user;
     return (
       <Grid style={{ background: '#4c3c4c' }}>
