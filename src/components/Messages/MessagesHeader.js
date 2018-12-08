@@ -15,7 +15,7 @@ export class MessagesHeader extends Component {
         </Header>
 
         {/* Channel Search Input  */}
-        <Header flaoted="right">
+        <Header floated="right">
           <Input
             size="mini"
             icon="search"
